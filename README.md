@@ -17,8 +17,8 @@ Includes input validation and error handling also by using messagebox func. from
 
 
 ## Example input:
-Roman: XCIX
-Output: 99
+- Roman: XCIX
+- Output: 99
 
 ## Author
 Rakshit Chauhan
