@@ -12,8 +12,8 @@ Includes input validation and error handling also by using messagebox func. from
 1. Make sure Pyhton is installed on your system.
 2. Clone the repository or download the code.
 3. Run the file:
-   '''bash
-   pyhton "project 1.py"
+   - '''bash
+   - pyhton "project 1.py"
 
 
 ## Example input:
